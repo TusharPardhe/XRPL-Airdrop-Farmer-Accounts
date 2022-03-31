@@ -4,4 +4,4 @@ A repository to store all the XRPL accounts created to farm airdrops/token rewar
 
 #
 
-Note: The data could be erroneous. If you believe your account was included by accident, please contact me at tpardhe@gmail.com or raise a **pull request** with accurate information. 
+Note: The data could be erroneous. If you believe your account was included by accident, please contact me at tpardhe@gmail.com or **raise a pull request** with accurate information. 
