@@ -25,7 +25,7 @@ const getFileData = () => {
         const btn = document.getElementById("search_btn");
         btn.onclick = function () {
             if (!data[input.value]) {
-                alert("Your input is not present in the list");
+                alert("Your account/input is not present in the farmers list.");
             } else {
                 alert("You're a farmer!!");
             }
