@@ -2,7 +2,7 @@
 
 This repository is a collection of XRPL accounts created to farm airdrops/token rewards or other bad activities. 
 
-Data is stored as a JSON object with key value pair.
+Data is stored in `TokenFarmers.json` file as a JSON object with key value pair.
 
 For example:
   If farmer account is "r9ExYVBW1RaiVRsTq1ERgA1QLU6j3yb1h" then the entry will be
