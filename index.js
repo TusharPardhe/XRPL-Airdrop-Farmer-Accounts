@@ -25,7 +25,7 @@ const getFileData = () => {
         const btn = document.getElementById("search_btn");
         btn.onclick = function () {
             if (!data[input.value]) {
-                alert("Your account/input is not present in the farmers list.");
+                alert("Your account/input is not present in the farmers list. Note: If you hold more than 589 editions you won't be considered as a farmer for editions project.");
             } else {
                 alert("You're a farmer!!");
             }
