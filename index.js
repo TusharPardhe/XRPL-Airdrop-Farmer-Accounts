@@ -27,7 +27,7 @@ const getFileData = () => {
             if (!data[input.value]) {
                 alert("Your account/input is not present in the farmers list.");
             } else {
-                alert("You're a farmer!! Note: If you hold more than 589 editions you won't be considered as a farmer for editions project.");
+                alert("Your account/input is tagged as a farmer/bot account");
             }
         };
     });
