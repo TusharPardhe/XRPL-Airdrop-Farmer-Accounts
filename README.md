@@ -13,4 +13,6 @@ For example:
 ```
 #
 
+You can also use this website link to check your address: https://tusharpardhe.github.io/XRPL-Airdrop-Farmer-Accounts/index.html
+
 Note: There is no guarantee that the data is completely accurate. If you believe your account was included by accident, please **raise a pull request** or email me on tpardhe@gmail.com with accurate information. 
